@@ -5,7 +5,7 @@ let nivel;
 if (xp <=1000) {
     nivel = "Ferro"
 } else if (xp <=2000){
-    nivel = "Broze"
+    nivel = "Bronze"
 } else if (xp <=5000){
     nivel = "Prata"
 } else if (xp <=7000){
